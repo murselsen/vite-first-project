@@ -102,5 +102,5 @@ export default defineConfig({
   logLevel: "info",
 
   // Geliştirme sunucusu başlatıldığında ekranı temizleme
-  // clearScreen: true,
+  clearScreen: true,
 });
